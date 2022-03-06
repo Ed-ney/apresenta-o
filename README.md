@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou me desenvolvendo em front-end
 - 🌱 Estudando Html, CSS, Javascript
-- 📫 Onde me encontrar: Twitter: @atticuslynn Discord Atticus ミヤ ❄#4676
+- 📫 Onde me encontrar: Twitter: @atticuslynn Discord: Atticus ミヤ ❄#4676
 - 🤠ele/dele
 
 <div>
