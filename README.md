@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente estou me desenvolvendo em front-end
 - 🌱 Estudando Html, CSS, Javascript
-- 💬 Contate-me no email: contatoedney1@gmail.com
 - 📫 Onde me encontrar: Twitter: @atticuslynn Discord Atticus ミヤ ❄#4676
 - 🤠ele/dele
 
@@ -25,3 +24,4 @@
 <br>
 <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/0328279f67b2f5ce3fd88df350a68abf.gif" width="125" height="125" border="0" alt="https://picasion.com/"></a>
 </div>
+##
