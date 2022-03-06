@@ -1,4 +1,4 @@
-## ༼ つ ◕_◕ ༽つ Olá! Eu sou o Edinei (❁´◡`❁)
+## ༼ つ ◕_◕ ༽つ Olá! Eu sou o Edney (❁´◡`❁)
 
 - 🔭 Atualmente estou me desenvolvendo em front-end
 - 🌱 Estudando Html, CSS, Javascript
