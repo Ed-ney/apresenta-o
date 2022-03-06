@@ -22,6 +22,6 @@
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="max-width: 100%">
 </a>
 <br>
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/0328279f67b2f5ce3fd88df350a68abf.gif" width="125" height="125" border="0" alt="https://picasion.com/"></a>
+<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/e95a54dd1651d82e2197ec05e3140bbb.gif" width="125" height="125" border="0" alt="https://picasion.com/"></a>
 </div>
 
