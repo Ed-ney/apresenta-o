@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente estou me desenvolvendo em front-end
 - 🌱 Estudando Html, CSS, Javascript
-- 📫 Onde me encontrar: Twitter: @atticuslynn Discord: Atticus ミヤ ❄#4676
 - 🤠ele/dele
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atticuslynn&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width: 100%;">
